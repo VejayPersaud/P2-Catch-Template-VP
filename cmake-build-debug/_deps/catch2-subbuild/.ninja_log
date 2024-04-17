@@ -1,0 +1,21 @@
+# ninja log v5
+1	47	7330559284898832	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	e488a8353b0004f6
+1	47	7330559284898832	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	e488a8353b0004f6
+0	3645	7330559417042631	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	e47bd088035a49e4
+0	3645	7330559417042631	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	e47bd088035a49e4
+3646	3734	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	f968d052974979a8
+3646	3734	0	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	f968d052974979a8
+3734	3768	7330559418274473	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	7ec5b4ff84af1f71
+3734	3768	7330559418274473	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	7ec5b4ff84af1f71
+3768	3802	7330559418608686	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	e7630f84fca0ac54
+3768	3802	7330559418608686	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	e7630f84fca0ac54
+3802	3836	7330559418947778	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	b3920e8c8766eb1d
+3802	3836	7330559418947778	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	b3920e8c8766eb1d
+3836	3870	7330559419286887	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	ff2f20ebca3a29ff
+3836	3870	7330559419286887	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	ff2f20ebca3a29ff
+3870	3904	7330559419631073	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	7f83b4eac746e850
+3870	3904	7330559419631073	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	7f83b4eac746e850
+3904	3950	7330559420089848	CMakeFiles/catch2-populate-complete	1adbd568ee7d140f
+3904	3950	7330559420089848	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	1adbd568ee7d140f
+3904	3950	7330559420089848	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	1adbd568ee7d140f
+3904	3950	7330559420089848	C:/Users/Admin/Desktop/COP3530 DSA/P2-Catch-Template-VP/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	1adbd568ee7d140f
